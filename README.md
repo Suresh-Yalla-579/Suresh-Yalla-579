@@ -41,6 +41,12 @@
 
 ---
 
+## 📈 GitHub Stats
+![Suresh's GitHub stats](https://github-readme-stats.vercel.app/api?username=sathwiky579&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sathwiky579&layout=compact&theme=radical)
+
+---
 
 ## 💬 Connect With Me
 [LinkedIn](https://www.linkedin.com/in/suresh-yalla) |
